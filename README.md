@@ -1,16 +1,43 @@
-# mobile_final_project
+# FocusFlow App 
 
-A new Flutter project.
+**FocusFlow – Focus. Flow. Achieve.**  
+A clean and elegant Flutter app that combines a Pomodoro timer with simple task management to help you stay focused and productive.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
 
-A few resources to get you started if this is your first Flutter project:
+- 25-minute focused Pomodoro sessions with smooth progress ring  
+- Easy task creation with due dates & times  
+- Full dark mode & elegant design  
+- Track completed sessions and visualize progress  
+- Lightweight, ad-free, and distraction-free  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+---
+
+##  Getting Started
+
+### Prerequisites
+
+- Flutter SDK (>=3.0.0)
+- Dart SDK
+- Android Studio / VS Code
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/samamashaly19/focusflow_app.git
+
+# Go to project directory
+cd focusflow_app
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
